@@ -1,1 +1,2 @@
-hello pepole
+print("hello world")
+print("hi")
